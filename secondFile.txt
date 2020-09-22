@@ -1,0 +1,8 @@
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_start: 3.50
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_duration: 3.16
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_end:  6.65
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_start: 14
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_duration:5.71
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_end:  19.71
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_duration:0.29
+[freezedetect @ 0x7faf71100a00] lavfi.freezedetect.freeze_start: 20
